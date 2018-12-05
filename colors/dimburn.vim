@@ -59,6 +59,12 @@ hi VisualNOS       ctermfg=236 ctermbg=235 cterm=bold
 hi WarningMsg      ctermfg=231 ctermbg=236 cterm=bold
 hi WildMenu        ctermfg=194 ctermbg=236 cterm=underline
 
+" SPELLCHECK
+hi SpellBad        ctermfg=209 ctermbg=237
+hi SpellCap        ctermfg=103 ctermbg=237
+hi SpellRare       ctermfg=139 ctermbg=237
+hi SpellLocal      ctermfg=151 ctermbg=237
+
 " LANGUAGE
 hi Comment         ctermfg=2
 
