@@ -87,7 +87,7 @@ hi Macro           ctermfg=9 cterm=bold
 hi PreCondit       ctermfg=9 cterm=bold
 
 hi Type            ctermfg=10 cterm=bold
-hi StorageClass    ctermfg=249 cterm=bold
+hi StorageClass    ctermfg=10 cterm=bold
 hi Structure       ctermfg=229 cterm=bold
 hi Typedef         ctermfg=253 cterm=bold
 
